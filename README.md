@@ -2,7 +2,7 @@
 
 An efficient 21st-century tool made by team **technovators** for **2024 AI Challenge** that helps its clients design comprehensive and optimized solution workflows for their projects.
 
-<img src=https://github.com/TalalMajeed/NeuroFlow-AI/blob/master/NeuroFlow/static/assets/logo-BNZQ-ew0.png alt=Logo height=200 width=200 />
+<img src=https://github.com/DataIntuitions/NeuroFlow-AI-master/static/assets/logo-BNZQ-ew0.png alt=Logo height=200 width=200 />
 
 ## Features
 
@@ -25,7 +25,7 @@ Make sure to have Python installed (3.10v at least)
 Clone the repository into your desired directory on Command Prompt / Terminal
 
 ```bash
-  git clone https://github.com/TalalMajeed/NeuroFlow-AI.git
+ https://github.com/DataIntuitions/NeuroFlow-AI-master
 ```
 
 Install Python dependencies in **requirements.txt**
@@ -96,11 +96,11 @@ Start the Web Application by running in the cloned repository directory:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/TalalMajeed/NeuroFlow-AI/blob/master/NeuroFlow/static/assets/Workflow_example.jpeg)
+![App Screenshot](https://github.com/DataIntuitions/NeuroFlow-AI-master/blob/master/NeuroFlow/static/assets/Workflow_example.jpeg)
 
 ## Demo
 
-App Demo: [Click here](https://github.com/TalalMajeed/NeuroFlow-AI/blob/master/NeuroFlow-Demo.mp4) to see the video
+App Demo: [Click here](https://github.com/DataIntuitions/NeuroFlow-AI-master/blob/master/NeuroFlow-Demo.mp4) to see the video
 
 ## Example for Testing
 
@@ -134,9 +134,3 @@ I am a student and I want to create a Decentralized voting system for my end sem
 
 -   Vercel PostGreSQL
 
-## Authors
-
--   [@bilalrana351](https://github.com/bilalrana351)
--   [@TalalMajeed](https://github.com/TalalMajeed)
--   [@Saim-Kaleem](https://github.com/Saim-Kaleem)
--   [@EznXadee](https://github.com/EznXadee)
