@@ -99,7 +99,9 @@ Start the Web Application by running in the cloned repository directory:
 
 ## Screenshots
 
-![App Screenshot](https://github.com/DataIntuitions/NeuroFlow-AI-master/blob/master/NeuroFlow/static/assets/Workflow_example.jpeg)
+![App Screenshot](<img src="https://raw.githubusercontent.com/DataIntuitions/NeuroFlow-AI-master/main/NeuroFlow/static/assets/Workflow_example.jpeg" 
+     alt="Workflow Example" 
+     width="800" />)
 
 ## Demo
 
