@@ -2,7 +2,7 @@
 
 An efficient 21st-century tool made by team **technovators** for **2024 AI Challenge** that helps its clients design comprehensive and optimized solution workflows for their projects.
 
-<img src="https://raw.githubusercontent.com/DataIntuitions/NeuroFlow-AI-master/main/Frontend/public/logo.png" 
+<img src="https://raw.githubusercontent.com/DataIntuitions/NeuroFlow-AI-master/main/Frontend/public/logo.ico" 
      alt="NeuroFlow Logo" 
      width="200" />
 
